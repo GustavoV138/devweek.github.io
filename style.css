@@ -386,3 +386,9 @@ section {
       order: 2;
    }
  }
+
+    @media(max-width: 575px){
+       .col {
+          width: 100%;
+       }
+     }
